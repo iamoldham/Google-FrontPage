@@ -1,4 +1,4 @@
-# Sample of Google Front Page
+# Sample of Google Front Page . Feel free to clone!
 # Project: The Front End - HTML/CSS/JS
   Deconstructing and rebuilding a Google Search results page.
 
